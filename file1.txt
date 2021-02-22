@@ -1,2 +1,3 @@
 this is file1
 unstaging demo
+This change is done by user2 (for bug no: 157)
